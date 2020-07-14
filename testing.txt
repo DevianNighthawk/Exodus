@@ -3,5 +3,5 @@ Deva
 Omega
 Deranger
 Zeus
-Mars,Ruby on Rails
+Mars,OML
 Hades
