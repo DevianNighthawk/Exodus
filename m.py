@@ -3,7 +3,7 @@
 import math
 
 def sqrt(x):
-	return x**0.5
+	return x**0.50
 
 #print(math.sqrt(44))
 n=300
