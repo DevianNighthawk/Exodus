@@ -4,7 +4,7 @@ import math
 
 def sqrt(x):
 
-	return x**0.50*1
+	return math.sqrt(x)
 
 
 #print(math.sqrt(44))
