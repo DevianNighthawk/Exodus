@@ -1,0 +1,99 @@
+* commit c99e94c2fd0567da92c661de27b32540e4a00bf5 (iss56)
+| Author: Devian Nightgale <deviancorps@gmail.com>
+| Date:   Thu Jul 9 14:28:26 2020 -0700
+| 
+|     Added list items
+|   
+| * commit 76695dae5082e8c0c5b96d321cce43796f5c7dfc (HEAD -> master)
+| | Author: Devian Nightgale <deviancorps@gmail.com>
+| | Date:   Thu Jul 9 14:26:13 2020 -0700
+| | 
+| |     Wrote a small function to return all files matching a specific file extension
+| | 
+| * commit 008a2a713cda3c87398f72b2a49016517dd49000
+|/  Author: Devian Nightgale <deviancorps@gmail.com>
+|   Date:   Thu Jul 9 14:17:45 2020 -0700
+|   
+|       Currently writing a file that performs basic OS manipulations, excited to learn about how OS module can help in data science
+| 
+* commit 5247590adca90843d96f6d07642238888b62e578 (origin/master)
+| Author: Devian Nightgale <deviancorps@gmail.com>
+| Date:   Thu Jul 9 13:19:43 2020 -0700
+| 
+|     Adding a TEXT intro file
+|   
+*   commit 19de4cc60b636347fca3d77adc35823538e54eaa (medea)
+|\  Merge: 1f6a1e5 f7a6352
+| | Author: Devian Nightgale <deviancorps@gmail.com>
+| | Date:   Thu Jul 9 12:59:49 2020 -0700
+| | 
+| |     Merge branch 'iss53'
+| |     File was missing
+| | 
+| * commit f7a63525307edda543806e2b7f7a29bdc6d0d034
+| | Author: Devian Nightgale <deviancorps@gmail.com>
+| | Date:   Thu Jul 9 12:59:06 2020 -0700
+| | 
+| |     Added missing file
+| | 
+| * commit d5719747ff5e7e215d0cea771f5335371664b4c9 (origin/testing, testing)
+| | Author: Devian Nightgale <deviancorps@gmail.com>
+| | Date:   Thu Jul 9 12:25:01 2020 -0700
+| | 
+| |     Added a stub function
+| | 
+* | commit 1f6a1e556b55013e8805e8c7dd1db6b5ee71fbc1
+| | Author: Devian Nightgale <deviancorps@gmail.com>
+| | Date:   Thu Jul 9 12:46:19 2020 -0700
+| | 
+| |     Added some docs
+| | 
+* | commit 0d4633fabdcfb5272575d05f0756bd2aa73aec77
+|/  Author: Devian Nightgale <deviancorps@gmail.com>
+|   Date:   Thu Jul 9 12:29:04 2020 -0700
+|   
+|       Testing sqrt function
+| 
+* commit c7ce3bc52211da6ad179fce75b3a63f2d83173eb
+| Author: Devian Nightgale <deviancorps@gmail.com>
+| Date:   Thu Jul 9 12:03:22 2020 -0700
+| 
+|     Time to test some branches
+| 
+* commit 2773c67e4dba46f8b6f65b74aed41b4c6684f61a
+| Author: Devian Nightgale <deviancorps@gmail.com>
+| Date:   Thu Jul 9 11:10:32 2020 -0700
+| 
+|     Adding some CCs
+| 
+* commit 1c4502574256f631cff9fb74f7ac66ac3351af89 (maxine/master)
+| Author: Devian Nightgale <deviancorps@gmail.com>
+| Date:   Thu Jul 9 10:39:50 2020 -0700
+| 
+|     Added more files
+| 
+* commit 67c7a61640ee66728c150135bdf6a5d7484d93e2
+| Author: Devian Nightgale <deviancorps@gmail.com>
+| Date:   Thu Jul 9 10:01:50 2020 -0700
+| 
+|     Adding more changes
+|     
+|     Wheew forgot a file
+| 
+* commit ee47a0ef65e1b3e418bf80225c1a59c993735ee8
+| Author: Devian Nightgale <deviancorps@gmail.com>
+| Date:   Thu Jul 9 09:40:06 2020 -0700
+| 
+|     doing modification test
+| 
+* commit d6040fc415d59bf03de9a30c54c95ce1a4993cf5
+| Author: Devian Nightgale <deviancorps@gmail.com>
+| Date:   Thu Jul 9 09:34:10 2020 -0700
+| 
+|     Testing to see what happens if you create a file and then rename it
+| 
+* commit 640951a99744bc7a5ba4209df7b2bd5164979f02
+  Author: Devian Nightgale <deviancorps@gmail.com>
+  Date:   Wed Jul 8 18:20:38 2020 -0700
+  
+      first commit
